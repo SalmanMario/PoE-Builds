@@ -3,7 +3,8 @@ body,
   background-color: rgb(31, 29, 29);
   color: white;
   min-height: 850px;
-  max-height: 900px;
+  max-height: 950px;
+  margin-bottom: 20px;
 }
 
 header {
